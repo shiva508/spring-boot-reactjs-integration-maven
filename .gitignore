@@ -48,6 +48,7 @@ build/
 
 # production
 /dc-secure-ui/build
+/dc-secure-ui/package-lock.json
 
 # misc
 /dc-secure-ui/.DS_Store
